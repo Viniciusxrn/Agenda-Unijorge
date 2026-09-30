@@ -1,0 +1,40 @@
+.x1{
+  color:orange;
+  font-family:50px;
+  font-family:'Times New Roman', Times, serif;
+}
+.container
+{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.caixa
+{
+  
+  background-color:white;
+  height:700px;
+  width:500px;
+  border-radius:5px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+.ip
+{
+  height:20px;
+  width:300px;
+  border-radius:10px;
+}
+.e1
+{
+  height:20px;
+  width:150px;
+  cursor:pointer;
+}
+.e1:hover
+{
+  background-color:rgb(6, 61, 61);
+  color:yellow;
+}
